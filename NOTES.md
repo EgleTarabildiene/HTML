@@ -23,4 +23,19 @@
    -topics (aka hashtag)
    -releases (nuimti varnele)
     - packages (nuimti varnele)
-10. Pagrindinis meniu: setings.
+10. Pagrindinis meniu: setings
+
+Nauja paskaita:18gal.
+
+protokolas: //ip-adresas: port
+
+65000 yra langu tipo
+
+SERVERIS -> linux (OS) -> nedejs -> js (backend)
+
+http://123.0.0.1:8080/
+http://123.0.0.1:8080/
+
+https://12.34.56.789
+
+www.puslapis.lt -> DNS ->
